@@ -1,6 +1,8 @@
 # Tree
 [![Powershellgallery Badge][psgallery-badge]][psgallery-status]
 
+_Not tested yet after major renaming!_
+
 List contents of directories in a tree-like format with colorization and lots of options.
 
 ![example 03](/Docs/Screenshots/03.png)
