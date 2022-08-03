@@ -4,9 +4,15 @@
 __Not tested yet after major renaming!__
 
 The below text is from the source.
-Already started to remote the use of 'tree.exe' from Windows and use ONLY PowerShell!
+Already started to remove the use of 'tree.exe' from Windows and use ONLY PowerShell!
+
 
 ---
+
+
+
+
+
 
 List contents of directories in a tree-like format with colorization and lots of options.
 
